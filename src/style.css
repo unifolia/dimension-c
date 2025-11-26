@@ -223,4 +223,5 @@ body {
   letter-spacing: 0.2em;
   color: var(--color-gray-medium);
   margin-bottom: 30px;
+  text-align: center;
 }
